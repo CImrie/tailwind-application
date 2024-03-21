@@ -8,7 +8,7 @@
             Building a parser/lexer using ANTLR4 for flexibly modelling price, salary, and value changes over time.
           </ProjectCardSection>
           <ProjectCardSection title="Demo">
-            <a href="https://google.com" target="_blank" class="bg-gray-900 opacity-75 w-full h-40 flex items-center justify-center rounded mt-1 group hover:opacity-100 cursor-pointer transition ease-in duration-[50ms]">
+            <a href="https://drive.google.com/file/d/1LQbLtKjp90XgweBlIzJ85XDcTzWjklTT/view?usp=drive_link" target="_blank" class="bg-gray-900 opacity-75 w-full h-40 flex items-center justify-center rounded mt-1 group hover:opacity-100 cursor-pointer transition ease-in duration-[50ms]">
                 <PlayButton class="w-24 fill-current text-gray-300 group-hover:text-white"/>
             </a>
           </ProjectCardSection>
