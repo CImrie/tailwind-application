@@ -10,6 +10,7 @@ export default defineNuxtConfig({
   },
   modules: [
     'nuxt-svgo',
+    '@nuxt/content',
   ],
   svgo: {
     defaultImport: 'component',
@@ -18,5 +19,8 @@ export default defineNuxtConfig({
     config: {
       devtools: true,
     }
+  },
+  content: {
+
   }
 })
