@@ -75,4 +75,4 @@ I hope to hear from you soon.
 
 -Connor
 
-<img src="/_nuxt/assets/images/connor.png" alt="Connor Forsyth" width="200"/>
+<img src="/images/connor.png" alt="Connor Forsyth" width="200"/>
