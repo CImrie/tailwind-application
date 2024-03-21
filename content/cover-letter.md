@@ -61,12 +61,12 @@ I don't get as much time as I would like for writing online, but I did mention d
 
 #### Open Source
 I have built a number of open source projects over the years, but these are the ones I'm particularly proud of _(though they haven't been updated in a while, because "kids")_:
-- https://github.com/randomstate/openssl_ext - OpenSSL RSA C bindings for Crystal to bridge a gap in the standard library and enable developers to build JWT driven authentication in Crystal.
-- https://github.com/randomstate/doctrine-scopes - Bring Eloquent query builder scopes to Doctrine
-- https://github.com/randomstate/stripe - A PHP billing wrapper around Stripe that replicates all key APIs without hitting the API - a true 'mock' for Stripe.
-- https://github.com/CImrie/queuely - A queue library for Node/JS.
-- https://github.com/randomstate/jwt - JWT authentication library for Crystal using OpenSSL RSA bindings
-- https://github.com/randomstate/camelot-php - A PHP wrapper around Camelot PDF (Python) CLI.
+- [OpenSSL RSA C bindings for Crystal](https://github.com/randomstate/openssl_ext) to bring RSA encryption into to the language (so that I could use it for JWT auth).
+- [Bring Eloquent query builder scopes to Doctrine](https://github.com/randomstate/doctrine-scopes)
+- [A PHP billing wrapper around Stripe](https://github.com/randomstate/stripe) that replicates all key APIs without hitting the API - a true 'mock' for Stripe
+- [A queue library for Node/JS](https://github.com/CImrie/queuely)
+- [JWT authentication library for Crystal](https://github.com/randomstate/jwt)  using OpenSSL RSA bindings
+- [A PHP wrapper around Camelot PDF (Python) CLI](https://github.com/randomstate/camelot-php).
 
 ## Let's do this
 To round this off, I want to say that your job listing speaks to my soul, and I could triple the amount I have written to describe that in detail. I'm comfortable being self-employed and currently operate through a Ltd company in the UK. It would be genuinely thrilling to work with such an exceptional set of people and I hope you'll consider me for this position.
