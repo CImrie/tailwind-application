@@ -2,7 +2,7 @@
   <div class="flex w-full flex-col items-center justify-center">
     <div class="relative max-w-full flex justify-center">
       <div class="absolute">
-        <FooterBg class="h-96 w-auto"/>
+        <FooterBg class="min-h-96 lg:w-[1680px]"/>
       </div>
     </div>
     <div class="text-center lg:text-left flex flex-col lg:flex-row items-center justify-center w-full max-w-content px-6 lg:px-0 z-10 mt-32 lg:gap-x-48 gap-y-4">

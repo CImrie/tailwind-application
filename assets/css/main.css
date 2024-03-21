@@ -9,6 +9,20 @@
     src: url('~/assets/fonts/GochiHand-Regular.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 300;
+    font-style: normal;
+    src: url('~/assets/fonts/Gilroy-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-weight: 800;
+    font-style: normal;
+    src: url('~/assets/fonts/Gilroy-ExtraBold.otf') format('opentype');
+}
+
 html, body, #__nuxt {
     @apply w-full h-full;
 }

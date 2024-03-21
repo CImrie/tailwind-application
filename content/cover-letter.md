@@ -1,6 +1,6 @@
 Hi Adam, Steve, and team.
 
-I'm a huge fan of your work, and have followed your progression from 2016, all the way through KiteTail, the subsequent development of Tailwind CSS, Refactoring UI and the launch of TailwindUI.
+I'm a huge fan of your work, and have followed your progression all the way through KiteTail, the subsequent development of Tailwind CSS, Refactoring UI and the launch of TailwindUI.
 
 ---
 I have prepared my application as a split between a [showcase website](/) and this written cover letter. 
@@ -9,7 +9,14 @@ I [designed](https://drive.google.com/file/d/1LLNc6TuaFY-zmjeafgCo1mYG8FhgCUbC/v
 
 ---
 
-The TL;DR of this application is that I'm a normal and easy-going person, I work exceptionally hard, I have very high standards of myself and others and I am passionate about literally anything I get stuck into. I believe working at Tailwind would be the highlight of my career, and I would love the opportunity to work with you.
+The TL;DR of this application is:
+- I'm a normal and easy-going person.
+- I work exceptionally hard.
+- I have very high standards of myself and others.
+- I am passionate about everything I get stuck into. 
+- I believe working at Tailwind would be the highlight of my career, and I would love the opportunity to work with you.
+
+---
 
 I want to start by telling you who I am, and then going into detail about my professional work.
 
@@ -19,7 +26,7 @@ I have a wife, 2 young kids, family pets, and a lovely home in the Scottish coun
 
 I was the sort of teenager that (somehow) balanced an active social life with daily visits to the local library so that I could use the internet to learn programming. I would learn and build my own computer from parts, and I would mod strategy games like "Command & Conquer" or "Supreme Commander" with my own 3D models in Blender for fun.
 
-If there is one thing that drives me in my life, it's "mastery through learning". I love learning literally anything from engineering, product, design, DIY, physics, business, psychology, philosophy all the way through to digital sales tax laws. The one theme that binds it all is that I love personal growth and mastering new skills. I try to be a better version of myself every day, and my hobbies outside of family include my own bootstrapped SaaS products, reading, meditation, and going to the gym.
+If there is one thing that drives me in my life, it's "mastery through learning". I love learning anything and everything - from engineering, product, design, DIY, physics, business, psychology, philosophy all the way through to digital sales tax laws. The one theme that binds it all is that I love personal growth and mastering new skills. I try to be a better version of myself every day, and my hobbies outside of family include my own bootstrapped SaaS products, reading, meditation, and going to the gym.
 
 ## My Work
 
@@ -37,7 +44,7 @@ I have worked primarily with Laravel, Vue, React, JS/TS, Node and Tailwind. In m
 
 I love working directly with others on problems, and getting into the detail. I brought Tuple into my last workplace and loved pairing daily on issues and mentoring others.
 
-In every role I work in, I communicates transparently, build systems and processes to move the team forward, actively push to learn as much as I can and I sweat the small details to deliver the best product I can within the constraints I'm given.
+In every role I work in, I communicate transparently, build systems and processes to move the team forward, actively push to learn as much as I can and I sweat the small details to deliver the best product I can within the constraints I'm given.
 
 I take time to make sure commit messages are insightful, I clean up my code before I push it to others, I refactor ruthlessly, and I make sure *every* PR or project has prose outlining the motivation for the work and what success looks like. The single most important aspect of team communication for me is built out of respect for my colleagues - I always make sure I provide full context about the topic and never just throw things over the wall.
 
