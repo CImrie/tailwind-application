@@ -1,5 +1,5 @@
 <template>
-  <div class="h-full w-full text-cf-gray-500">
+  <div class="h-full w-full text-cf-gray-500 overflow-x-hidden">
       <div class="flex flex-col max-w-full items-center justify-center px-4 lg:px-20 overflow-x-hidden">
         <Hero/>
         <Wave class="hidden lg:block w-full lg:-mt-36 lg:w-[1690px]"/>

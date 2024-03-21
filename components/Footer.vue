@@ -1,6 +1,6 @@
 <template>
   <div class="flex w-full flex-col items-center justify-center">
-    <div class="relative flex justify-center">
+    <div class="relative max-w-full flex justify-center">
       <div class="absolute">
         <FooterBg class="h-96 w-auto"/>
       </div>
