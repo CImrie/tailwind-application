@@ -4,11 +4,11 @@
           <template v-slot:row_1>
             <div class="relative">
               <div class="leading-[64px] lg:leading-[100px] lg:mt-28 lg:ml-36 uppercase text-7xl lg:text-9xl font-brand font-bold text-cf-gray-500 z-10">Hire</div>
-              <HireMeArrow class="absolute z-10 left-40 -top-2 lg:top-4 lg:left-[400px] fill-current text-red-500 w-[186px] h-[490px]"/>
+              <HireMeArrow class="absolute z-10 left-40 -top-20 sm:-top-2 lg:top-4 lg:left-[400px] fill-current text-red-500 w-24 sm:w-[186px] h-[490px]"/>
             </div>
           </template>
         </WallOfText>
-        <div class="relative left-[335px] lg:left-[575px]">
+        <div class="relative -top-40 -right-72 sm:top-0 sm:right-0 sm:left-[335px] lg:left-[575px]">
           <svg class="absolute -mt-20 -ml-32 fill-current text-white">
             <circle r="50px" cx="50%" cy="50%"/>
           </svg>
