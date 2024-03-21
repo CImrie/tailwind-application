@@ -1,26 +1,25 @@
 <template>
-  <div class="justify-center">
-    <div v-for="i in rows"
-         class="flex items-end gap-x-4 text-gray-300 font-medium odd:ml-20 w-[1110px] py-1 align-baseline">
+  <div class="flex flex-col overflow-x-visible">
+    <div v-for="i in rows" class="flex items-end gap-x-4 text-gray-300 font-medium odd:ml-20 lg:w-[1110px] py-1 align-baseline">
       <div ref="rowSlotParents" class="absolute z-10">
         <slot :name="`row_${i}`"/>
       </div>
       <div v-for="j in columns" ref="columnRefs">
         <div class="relative">
-          <template v-if="i == rows && j === mePosition">
-            <div class="invisible">them</div>
-            <svg class="absolute -mt-20 -ml-32 fill-current text-white">
-              <circle r="50px" cx="50%" cy="50%"/>
-            </svg>
-            <div class="text-red-500 font-bold text-4xl absolute -mt-10">
-              me
-            </div>
-          </template>
-          <template v-else>
+<!--          <template v-if="i == rows && j === mePosition">-->
+<!--            <div class="invisible">them</div>-->
+<!--            <svg class="absolute -mt-20 -ml-32 fill-current text-white">-->
+<!--              <circle r="50px" cx="50%" cy="50%"/>-->
+<!--            </svg>-->
+<!--            <div class="text-red-500 font-bold text-4xl absolute -mt-10">-->
+<!--              me-->
+<!--            </div>-->
+<!--          </template>-->
+<!--          <template v-else>-->
             <div :class="{'invisible': !(shouldDisplayColumn(i-1, j-1)).value}">
               them
             </div>
-          </template>
+<!--          </template>-->
         </div>
       </div>
     </div>

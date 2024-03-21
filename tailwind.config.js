@@ -19,7 +19,7 @@ export default {
           500: '#444444',
         }
       },
-      width: {
+      spacing: {
         'content': '1182px',
       }
     },

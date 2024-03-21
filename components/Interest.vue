@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="font-bold uppercase">{{ subject }}</div>
-    <div class="flex gap-x-2 h-32 mb-10" v-if="$slots.default">
+    <div class="flex flex-wrap gap-x-2 gap-y-2" v-if="$slots.default">
       <slot/>
     </div>
   </div>

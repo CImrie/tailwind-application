@@ -1,6 +1,6 @@
 <template>
-  <div class="w-content flex gap-x-24">
-    <div class="flex flex-col gap-y-4">
+  <div class="w-full max-w-content flex flex-col items-center lg:flex-row gap-y-12 gap-x-24 px-6 lg:px-0">
+    <div class="flex flex-col gap-y-4 w-full md:w-2/3 lg:w-full">
       <Heading3>How I Work</Heading3>
       <BulletStack>
         <BulletItem>JIT Scoping that prioritises the customer experience</BulletItem>
@@ -14,7 +14,7 @@
               An eye for Design
             </div>
           </BulletItem>
-          <div class="right-0 -mr-24 mt-2 absolute w-96 flex gap-x-4 items-center">
+          <div class="right-0 -mr-24 mt-2 absolute w-96 flex gap-x-4 items-center hidden lg:block">
             <Callout class="ml-16">
               <template v-slot:left>
                 <CalloutArrow class="w-6 h-auto"/>
@@ -28,7 +28,7 @@
         </div>
       </BulletStack>
     </div>
-    <div class="flex flex-col gap-y-4">
+    <div class="flex flex-col gap-y-4 w-full md:w-2/3 lg:w-full">
       <Heading3>Tech Stack</Heading3>
       <BulletStack>
         <BulletItem>Best in PHP / Laravel with Vue, <span class="font-bold border-b-2 border-red-600">Tailwind</span> , and JavaScript/TypeScript</BulletItem>

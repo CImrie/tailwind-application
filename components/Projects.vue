@@ -1,7 +1,7 @@
 <template>
-  <div class="w-content">
+  <div class="w-full md:w-2/3 lg:w-full max-w-content px-6 lg:px-0">
     <Heading3>Projects</Heading3>
-    <div class="flex gap-x-4 mt-8">
+    <div class="flex flex-col gap-y-4 lg:flex-row gap-x-4 mt-8">
       <ProjectCard name="Contingens" description="Simple accounting-accurate financial forecasts for startups seeking investment.">
         <ProjectCardSectionStack class="mt-4">
           <ProjectCardSection title="Highlight">

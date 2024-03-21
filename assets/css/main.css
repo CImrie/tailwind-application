@@ -8,3 +8,7 @@
     font-style: normal;
     src: url('~/assets/fonts/GochiHand-Regular.ttf') format('truetype');
 }
+
+html, body, #__nuxt {
+    @apply w-full h-full;
+}
