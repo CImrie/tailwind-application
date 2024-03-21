@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="377px" viewBox="0 0 1440 377" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Footer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="0%" cy="9.77691233%" fx="0%" fy="9.77691233%" r="313.065251%" gradientTransform="translate(0.000000,0.097769),scale(0.259931,1.000000),rotate(13.764975),translate(-0.000000,-0.097769)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#F5C8C8" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <path d="M365.522348,9.33974685 C527.887534,27.8823562 829.416313,56.8675375 1113,52.6991549 C1166.56394,51.9118211 1366.0834,32.2997827 1441,9.33974685 L1441,375 L1,375.335551 L0.584046005,52.6991549 C63.3264999,10.0051279 175.431872,-12.3691768 365.522348,9.33974685 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final" transform="translate(0.000000, -3591.000000)">
+            <g id="Footer" transform="translate(-1.000000, 3593.000000)">
+                <g id="Rectangle">
+                    <use fill="#F7F7F7" xlink:href="#path-2"></use>
+                    <path stroke="#D3000E" stroke-width="2" d="M365.635813,8.34620492 C469.829232,20.2454174 580.186658,30.6980764 693.873038,38.5384425 C842.17326,48.7659477 983.42282,53.6036954 1112.9853,51.6992629 C1141.36798,51.2820674 1206.21341,45.8212572 1268.87422,38.3412638 C1344.29246,29.3383817 1406.75447,18.7892238 1440.70698,8.38364118 L1442,7.98736273 L1442,375.999767 L0.00128870357,376.335784 L-0.416636353,52.1705253 L0.021473283,51.8724071 C69.381941,4.6750551 189.073689,-11.8177388 365.635813,8.34620492 Z" fill="url(#radialGradient-1)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

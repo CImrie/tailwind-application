@@ -12,6 +12,15 @@ export default {
     extend: {
       fontFamily: {
         'brand': 'Gilroy, sans-serif',
+        'handwritten': 'Gochi Hand',
+      },
+      colors: {
+        'cf-gray': {
+          500: '#444444',
+        }
+      },
+      width: {
+        'content': '1182px',
       }
     },
   },
