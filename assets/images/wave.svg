@@ -4,7 +4,7 @@
     <title>Combined Shape</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(0.000000, -963.000000)" fill="#FF0000">
+        <g id="Artboard" transform="translate(0.000000, -963.000000)" fill="#FF0000" stroke="#FF0000" stroke-width="4">
             <g id="Path-3-+-Path-3-Mask" transform="translate(0.000000, 899.000000)">
                 <path d="M1440,129.194289 L1440,132.078073 C1280.70479,165.884312 1123.03813,178.219986 967,169.085093 C654.34387,150.781361 656.048869,79.9095355 346.573357,68.06593 C230.557032,63.6259936 115.032579,84.9633746 0,132.078073 L0,129.194289 C115.032579,82.0795908 230.557032,60.7422098 346.573357,65.1821462 C656.048869,77.0257517 654.34387,147.897577 967,166.20131 C1123.03813,175.336202 1280.70479,163.000529 1440,129.194289 Z" id="Combined-Shape"></path>
             </g>
