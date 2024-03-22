@@ -6,7 +6,7 @@
         <BulletItem>JIT Scoping that prioritises the customer experience</BulletItem>
         <BulletItem>De-risk by going after the <span class="font-bold">core problem first</span></BulletItem>
         <BulletItem>Written and <span class="font-bold">detailed communication</span> for everything</BulletItem>
-        <BulletItem><a target="_blank" href="https://drive.google.com/drive/folders/1LP3csnSAOcvrhMYUUTmA1ArU_UwWztah?usp=sharing">Sketches and drawings</a> communicate a lot</BulletItem>
+        <BulletItem><a target="_blank" href="https://drive.google.com/drive/folders/1LP3csnSAOcvrhMYUUTmA1ArU_UwWztah?usp=sharing">Sketches and drawings</a> to communicate a lot</BulletItem>
         <BulletItem>Deep Work</BulletItem>
         <div class="relative">
           <BulletItem>
