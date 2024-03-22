@@ -11,6 +11,7 @@ export default defineNuxtConfig({
   modules: [
     'nuxt-svgo',
     '@nuxt/content',
+    '@nuxt/image',
   ],
   svgo: {
     defaultImport: 'component',
