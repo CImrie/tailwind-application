@@ -18,7 +18,7 @@
         </div>
         <div class="lg:block absolute ml-16 lg:ml-[695px] -mt-24 lg:-mt-40 xl:-mt-[260px] transition-all ease-in-out duration-200">
           <div class="flex flex-col items-center">
-            <NuxtImg alt="Connor Forsyth with his son on his shoulders" src="~/assets/images/connor.png" class="h-60 lg:h-52 xl:h-[336px]"/>
+            <NuxtImg alt="Connor Forsyth with his son on his shoulders" src="/images/connor.png" class="h-60 lg:h-52 xl:h-[336px]"/>
             <div class="flex flex-col items-center">
               <h2 class="text-2xl font-brand font-bold uppercase text-cf-gray-500">Connor Forsyth</h2>
               <p class="text-sm font-medium text-gray-400 uppercase -mt-1">Wearing a small child</p>
