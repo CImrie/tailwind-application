@@ -11,16 +11,16 @@ export default defineNuxtConfig({
   modules: [
     'nuxt-svgo',
     '@nuxt/content',
+    '@nuxt/image',
   ],
   svgo: {
     defaultImport: 'component',
   },
-  vue: {
-    config: {
-      devtools: true,
-    }
-  },
+  vue: {},
   content: {
 
+  },
+  image: {
+    format: ['webp', 'avif', 'jpeg', 'png'],
   }
 })
