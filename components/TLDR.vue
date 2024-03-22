@@ -1,6 +1,6 @@
 <template>
-  <div class="flex flex-col lg:flex-row items-center px-6 lg:px-0 w-full max-w-content">
-    <div>
+  <div class="flex flex-col lg:flex-row items-center px-6 lg:px-0 w-full max-w-content gap-x-12">
+    <div class="flex-shrink-0">
       <div class="font-brand font-bold">
         <div class="text-5xl text-red-600">the</div>
         <div class="text-7xl">TL;DR</div>
@@ -15,7 +15,7 @@
           </Callout>
         </div>
       </div>
-      <BulletStack class="font-normal mt-20">
+      <BulletStack class="font-normal mt-20 text-lg">
         <BulletItem>I like <span class="font-bold">fast</span></BulletItem>
         <BulletItem>I like <span class="font-bold">good</span></BulletItem>
         <BulletItem>I dive deep into <span class="font-bold">everything</span></BulletItem>
@@ -24,7 +24,7 @@
         <BulletItem>Currently Principal Full Stack Engineer / Architect @ <a href="https://datatecnics.com">Datatecnics</a></BulletItem>
       </BulletStack>
     </div>
-    <div class="mt-20 font-semibold">
+    <div class="mt-20 lg:-mt-8 font-semibold lg:-mr-8 lg:ml-8">
       <div class="flex justify-center items-center polygon-cloud w-[599px] h-[372px]">
         <div class="relative">
           <div class="text-3xl text-red-800 opacity-75 -mt-6 mb-6">Product</div>

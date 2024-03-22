@@ -16,7 +16,7 @@
             me
           </div>
         </div>
-        <div class="lg:block absolute ml-16 lg:ml-[695px] -mt-24 lg:-mt-40 xl:-mt-[260px] transition-all ease-in-out duration-200">
+        <div class="lg:block absolute ml-16 lg:ml-[695px] xl:ml-[725px] -mt-24 lg:-mt-40 xl:-mt-[260px] transition-all ease-in-out duration-200">
           <div class="flex flex-col items-center">
             <NuxtImg alt="Connor Forsyth with his son on his shoulders" src="/images/connor.png" class="h-60 lg:h-52 xl:h-[336px]"/>
             <div class="flex flex-col items-center">
