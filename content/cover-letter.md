@@ -62,7 +62,7 @@ I spent time tackling the problem from different angles until I eventually decid
 It's fast, easy to understand, easy to maintain, will grow to support so many new features, and provides a great user experience.
 
 #### Writing
-I don't get as much time as I would like for writing online, but I did mention digital [sales taxes](http://localhost:3000/cover-letter#who-am-i:~:text=digital%20sales%20tax). I did a big writeup of that a few years ago if you would like to read it and get a taste for how I communicate. I wrote this when I was considering building a product in the space, before consulting with Stripe and finding out they were about to launch Stripe Tax:
+I don't get as much time as I would like for writing online, but I did mention digital [sales taxes](http://cf-tailwind-application.netlify.app/cover-letter#who-am-i:~:text=digital%20sales%20tax). I did a big writeup of that a few years ago if you would like to read it and get a taste for how I communicate. I wrote this when I was considering building a product in the space, before consulting with Stripe and finding out they were about to launch Stripe Tax:
 - [Tech startup taxes](https://randomstate.notion.site/Tech-startup-taxes-595ce51c49124033b2c951545be010c6#812f79b0834e4cc5995c297f7e8127f5)
 - [How digital sellers can comply with taxes around the world - DIY](https://randomstate.notion.site/How-digital-sellers-can-comply-with-taxes-around-the-world-DIY-2d059f4c79f54a9b9edfe6dac946fc8b)
 

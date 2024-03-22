@@ -4,14 +4,14 @@
       <Heading3>How I Work</Heading3>
       <BulletStack>
         <BulletItem>JIT Scoping that prioritises the customer experience</BulletItem>
-        <BulletItem>De-risk by going after the core problem first</BulletItem>
-        <BulletItem>Written and detailed communication for everything</BulletItem>
-        <BulletItem>Sketches and drawings communicate A LOT</BulletItem>
+        <BulletItem>De-risk by going after the <span class="font-bold">core problem first</span></BulletItem>
+        <BulletItem>Written and <span class="font-bold">detailed communication</span> for everything</BulletItem>
+        <BulletItem><a target="_blank" href="https://drive.google.com/drive/folders/1LP3csnSAOcvrhMYUUTmA1ArU_UwWztah?usp=sharing">Sketches and drawings</a> communicate a lot</BulletItem>
         <BulletItem>Deep Work</BulletItem>
         <div class="relative">
           <BulletItem>
             <div class="relative">
-              An eye for Design
+              An eye for design
             </div>
           </BulletItem>
           <div class="right-0 -mr-24 mt-2 absolute w-96 flex gap-x-4 items-center hidden lg:block">
@@ -31,7 +31,7 @@
     <div class="flex flex-col gap-y-4 w-full md:w-2/3 lg:w-full">
       <Heading3>Tech Stack</Heading3>
       <BulletStack>
-        <BulletItem>Best in PHP / Laravel with Vue, <span class="font-bold border-b-2 border-red-600">Tailwind</span> , and JavaScript/TypeScript</BulletItem>
+        <BulletItem>Best in PHP / Laravel with Vue, <span class="font-bold border-b-2 border-gray-200">Tailwind</span> , and JavaScript/TypeScript</BulletItem>
         <BulletItem>Comfortable with React and Svelte</BulletItem>
         <BulletItem>Interested in languages like Rust</BulletItem>
         <BulletItem>Polyglot Developer - Love tinkering with new languages</BulletItem>

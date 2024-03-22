@@ -21,7 +21,7 @@
         <BulletItem>I dive deep into <span class="font-bold">everything</span></BulletItem>
         <BulletItem>I work comfortably in <span class="font-bold">uncharted waters</span> every day</BulletItem>
         <BulletItem>I have led and delivered <span class="font-bold">complex projects</span> in every role</BulletItem>
-        <BulletItem>Currently Principal Full Stack Engineer / Architect @ <a href="https://datatecnics.com" class="border-b hover:border-b-2 transition-all ease-in-out duration-75 border-red-600 font-bold">Datatecnics</a></BulletItem>
+        <BulletItem>Currently Principal Full Stack Engineer / Architect @ <a href="https://datatecnics.com">Datatecnics</a></BulletItem>
       </BulletStack>
     </div>
     <div class="mt-20 font-semibold">

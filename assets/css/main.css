@@ -26,3 +26,7 @@
 html, body, #__nuxt {
     @apply w-full h-full;
 }
+
+.landing-page a:not(.border-0) {
+    @apply border-b hover:border-b-2 transition-all ease-in-out duration-75 border-red-600 font-bold;
+}
