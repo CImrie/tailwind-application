@@ -57,7 +57,7 @@ I am not just a Software Engineer. I'm an Entrepreneur and Product Builder. I ca
 #### Ideas
 I have some Tailwind-specific ideas for projects I could work on or lead: 
 
-- Fix annoying DX issues like Jetbrains IDEs showing rgb values for known colours instead of the tailwind config value. We could work with Jetbrains and other IDE providers to perfect little details like this.
+- Fix annoying DX issues like Jetbrains IDEs showing rgb values for known colours instead of the Tailwind config value. We could work with Jetbrains and other IDE providers to perfect little details like this.
 - We could work on a build system to convert existing website CSS into compact Tailwind configuration, and use AST tools to automatically refactor and submit a draft PR to the codebase. It could even highlight when you repeat the same utility classes to encourage the creation of reusable components.
 - We could look to create a Tailwind compatibility / inliner tool to make it easy to compose email templates in Tailwind and have them render in different email clients.
 - We could create structured JSON editor components for Headless UI to let teams build custom DSLs / filter builders in accessible and consistent ways.
@@ -82,7 +82,7 @@ It's fast, easy to understand, easy to maintain, will grow to support so many ne
 </div>
 
 #### Writing
-I don't get as much time as I would like for writing online, but I did mention digital [sales taxes](http://cf-tailwind-application.netlify.app/cover-letter#who-am-i:~:text=digital%20sales%20tax). I did a big writeup of that topic a few years ago if you would like to read it and get a taste for how I communicate. I wrote this when I was considering building a product in the space, before consulting with Stripe and finding out they were about to launch Stripe Tax:
+I don't get as much time as I would like for writing online, but I did mention digital [sales taxes](http://cf-tailwind-application.netlify.app/cover-letter#who-am-i:~:text=digital%20sales%20tax). I did a big writeup on that topic a few years ago if you would like to read it and get a taste for how I communicate. I wrote this when I was considering building a product in the space, before consulting with Stripe and finding out they were about to launch Stripe Tax:
 - [Tech startup taxes](https://randomstate.notion.site/Tech-startup-taxes-595ce51c49124033b2c951545be010c6#812f79b0834e4cc5995c297f7e8127f5)
 - [How digital sellers can comply with taxes around the world - DIY](https://randomstate.notion.site/How-digital-sellers-can-comply-with-taxes-around-the-world-DIY-2d059f4c79f54a9b9edfe6dac946fc8b)
 
