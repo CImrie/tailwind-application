@@ -55,7 +55,7 @@ I've built and thrown away more projects than I can count, and done my best to s
 I am not just a Software Engineer. I'm an Entrepreneur and Product Builder. I can work in the weeds of code all the way through to business strategy and product design.
 
 #### Ideas
-I have some Tailwind-specific ideas on projects I could work on or lead, and I'm certain I would think of many more as we go. 
+I have some Tailwind-specific ideas for projects I could work on or lead, and I'm certain I would think of many more as we go. 
 
 - Fix annoying DX issues like Jetbrains IDEs showing rgb values for known colours instead of the tailwind config value. We could work with Jetbrains and other IDE providers to perfect little details like this.
 - We could work on a build system to convert existing website CSS into compact Tailwind configuration, and use AST tools to automatically refactor and submit a draft PR to the codebase. It could even highlight when you repeat the same utility classes to encourage the creation of reusable components.
