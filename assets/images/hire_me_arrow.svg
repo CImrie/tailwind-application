@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 186 622" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="186px" height="622px" viewBox="0 0 186 622" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-<!--    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">-->
-        <g id="Final" transform="translate(-531.000000, -166.000000)" fill="currentColor">
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-80.7026437%" y1="-20.6764923%" x2="39.6839016%" y2="81.9874815%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FF0516" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final" transform="translate(-531.000000, -166.000000)" fill="url(#linearGradient-1)">
             <g id="Arrow-Path" transform="translate(531.000000, 166.000000)">
                 <g id="Mask">
                     <path d="M180,53 C194.803765,117.766473 179.803765,302.43314 135,607 L145,608 L130,622 C122.415037,611.86397 118.415037,606.788081 118,606.772332 C117.623085,606.75803 121.289752,606.75803 129,606.772332 C174.470432,306.205472 189.803765,123.538805 175,58.7723321 C160.196235,-5.99414094 102.196235,-9.99414094 1,46.7723321 L1.42108547e-14,40 C105.196235,-16.0998064 165.196235,-11.766473 180,53 Z" id="Path-2"></path>
                 </g>
             </g>
-<!--        </g>-->
+        </g>
     </g>
 </svg>

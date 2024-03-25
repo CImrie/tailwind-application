@@ -1,7 +1,7 @@
 <template>
-  <div class="flex flex-col overflow-x-visible">
-    <div v-for="i in rows" class="flex items-end gap-x-4 text-gray-300 font-medium odd:ml-20 lg:w-[1110px] py-1 align-baseline">
-      <div ref="rowSlotParents" class="absolute z-10">
+  <div class="flex flex-col overflow-x-visible gap-y-1.5">
+    <div v-for="i in rows" class="flex items-end gap-x-4 text-gray-200 font-medium odd:ml-20 lg:w-[1110px] py-1 align-baseline">
+      <div ref="rowSlotParents" class="absolute z-10 font-brand font-bold">
         <slot :name="`row_${i}`"/>
       </div>
       <div v-for="j in columns" ref="columnRefs">
@@ -16,7 +16,7 @@
 <!--            </div>-->
 <!--          </template>-->
 <!--          <template v-else>-->
-            <div :class="{'invisible': !(shouldDisplayColumn(i-1, j-1)).value}">
+            <div :class="{'invisible': !(shouldDisplayColumn(i-1, j-1)).value, 'font-brand font-bold': true}">
               them
             </div>
 <!--          </template>-->

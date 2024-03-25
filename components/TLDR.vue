@@ -2,11 +2,11 @@
   <div class="flex flex-col lg:flex-row items-center px-6 lg:px-0 w-full max-w-content gap-x-12">
     <div class="flex-shrink-0">
       <div class="font-brand font-bold">
-        <div class="text-5xl text-red-600">the</div>
+        <div class="text-5xl text-cf-red-500">the</div>
         <div class="text-7xl">TL;DR</div>
         <div class="mt-24">
-          <h3 class="text-red-600 text-5xl">Full Stack Engineer</h3>
-          <div class="text-red-600 text-xl">9 YOE</div>
+          <h3 class="text-cf-red-500 text-5xl">Full Stack Engineer</h3>
+          <div class="text-cf-red-500 text-xl">9 YOE</div>
           <Callout class="ml-8">
             <template v-slot:left>
               <CalloutArrow class="w-6 h-auto"/>

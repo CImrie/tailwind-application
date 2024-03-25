@@ -17,6 +17,9 @@ export default {
       colors: {
         'cf-gray': {
           500: '#444444',
+        },
+        'cf-red': {
+          500: '#D3000E',
         }
       },
       spacing: {
